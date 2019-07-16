@@ -1,4 +1,4 @@
-##Kanban board for the Triplebyte Test
+## Kanban board for the Triplebyte Test
 
 I brute forced, and broke a lot of DRY pricinples since time was constraint on the test.
 
